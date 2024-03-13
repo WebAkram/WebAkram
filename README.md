@@ -1,7 +1,7 @@
 
 [![MasterHead](https://www.instavyapar.com/assets/images/inner_services/Website_Redesigning_(2).gif)](https://webakram.netlify.app/)
 <h1 align="center">Hi 👋, I'm Muhammad Akram</h1>
-<h3 align="center">A passionate full stack developer from pakistan</h3>
+<h3 align="center">A Passionate Full Stack Developer From Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=webakram&label=Profile%20views&color=0e75b6&style=flat" alt="webakram" /> </p>
